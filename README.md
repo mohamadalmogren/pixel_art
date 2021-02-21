@@ -1,4 +1,4 @@
-# Pixel Art Maker Project udacity IPND
+# Pixel Art Maker Project 
 
 this project foucs on *js* 
  contine table and chose your colume and row of the table and chose your color 
